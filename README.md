@@ -15,7 +15,9 @@ If you're new to ABIC, begin with the one-page summary:
 
 📄 ABIC One-Pager (PDF) — SHA-256: d661a85052688b7ceb1d1031242af50ad1591a9a39c7e31eb91fc88aa9e192e1
 
+📄 **One-Page Overview (PDF)**  
 [Download ABIC_One_Pager.pdf](https://raw.githubusercontent.com/abic135711-lgtm/ABICthenext6hours/main/docs/ABIC_One_Pager.pdf)
+
 
 
 ---
