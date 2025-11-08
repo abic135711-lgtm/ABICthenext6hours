@@ -6,6 +6,9 @@ This repository contains the complete ABIC ecosystem: a cross-disciplinary frame
 ABIC is not commercial, not affiliated with any institution, and not presented as a finalized solution.
 It is a starting point — a structural concept built to expand the conversation about safe and cooperative development beyond Earth orbit.
 
+📄 **One-Page Overview (PDF)**  
+[Download ABIC_One_Pager.pdf](https://raw.githubusercontent.com/abic135711-lgtm/abic-open-standard/main/ABIC_12_HOUR_IGNITION_2025-11-04part26morehours18total/Doc/ABIC_One_Pager.pdf)
+
 ---
 
 ## **📘 Repository Contents**
