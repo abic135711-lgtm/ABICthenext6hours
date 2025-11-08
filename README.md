@@ -7,15 +7,6 @@ This repository contains the complete ABIC ecosystem: a cross-disciplinary frame
 ABIC is not commercial, not affiliated with any institution, and not presented as a finalized solution.
 It is a starting point — a structural concept built to expand the conversation about safe and cooperative development beyond Earth orbit.
 
-📄 One-Page Overview (Start Here)
-
-If you're new to ABIC, begin with the one-page explainer:
-
-👉 Download ABIC_One_Pager.pdf
-
-This PDF summarizes the purpose, structure, and goals of the ABIC framework.
-
-
 ---
 
 ## **📘 Repository Contents**
